@@ -15,7 +15,7 @@ I also make some programs just to keep coding and learning.
  - [X] Core cutting program creator for a Georg TBA-300 RobotLine core cutting line, more or less finished.
  - [ ] Winding program creator for Ruff LW-120 RW wire winding machines.
  - [ ] Material weight calculator Android app.
- - [ ] Easee EV charger electricity price hourly updater.
+ - [X] Easee EV charger electricity price hourly updater.
 
 
 <!--
