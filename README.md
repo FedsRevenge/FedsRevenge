@@ -13,9 +13,7 @@ I also make some programs just to keep coding and learning.
 
 ## Projects I'm working on: :factory_worker:
  - [X] Core cutting program creator for a Georg TBA-300 RobotLine core cutting line, more or less finished.
- - [ ] Winding program creator for Ruff LW-120 RW wire winding machines.
- - [ ] Material weight calculator Android app.
- - [X] Easee EV charger electricity price hourly updater.
+ - [X] Winding program creator for Ruff LW-120 RW wire winding machines.
 
 
 <!--
